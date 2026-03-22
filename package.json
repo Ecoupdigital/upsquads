@@ -1,0 +1,34 @@
+{
+  "name": "upsquads",
+  "version": "0.1.0",
+  "description": "AI agent squads for Claude Code — specialized teams for copy, brand, growth, design, cybersecurity and more.",
+  "bin": {
+    "upsquads": "bin/install.js"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "squads",
+    "skills",
+    "agents",
+    "commands",
+    "workflows"
+  ],
+  "keywords": [
+    "claude",
+    "claude-code",
+    "ai-agents",
+    "squads",
+    "copywriting",
+    "branding",
+    "growth",
+    "design",
+    "cybersecurity",
+    "meta-prompting"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.7.0"
+  }
+}

@@ -1,0 +1,81 @@
+# UPSquads Registry
+# Indice de squads disponiveis para instalacao sob demanda
+# Uso: node squad-tools.cjs list
+
+squads:
+  - id: advisory-board
+    name: "Advisory Board"
+    agents: 11
+    description: "Board de 11 conselheiros estrategicos — Ray Dalio, Charlie Munger, Naval Ravikant, Peter Thiel, Reid Hoffman, Simon Sinek, Brene Brown e mais."
+    tags: [estrategia, decisao, investimento, lideranca, cultura]
+    dominio: "Decisoes estrategicas de alto nivel e consultoria executiva"
+
+  - id: brand-squad
+    name: "Brand Squad"
+    agents: 15
+    description: "10 pensadores lendarios de branding + 4 especialistas + 1 orquestrador. Brand equity, posicionamento, identidade, arquitetura e crescimento."
+    tags: [marca, branding, posicionamento, identidade, naming]
+    dominio: "Construcao e gestao de marca"
+
+  - id: c-level-squad
+    name: "C-Level Squad"
+    agents: 6
+    description: "C-suite virtual de 6 executivos — CEO, COO, CMO, CTO, CIO, CAIO. Estrategia, operacoes, marketing, tecnologia, AI."
+    tags: [executivo, estrategia, operacoes, tecnologia, marketing]
+    dominio: "Gestao executiva e planejamento estrategico"
+
+  - id: copy-squad
+    name: "Copy Squad"
+    agents: 23
+    description: "22 copywriters lendarios + 1 orquestrador. Direct response, email, funis, VSLs, cartas de vendas, ofertas e copywriting de marca."
+    tags: [copy, vendas, email, funil, headline, vsl, landing-page]
+    dominio: "Copywriting e textos persuasivos de venda"
+
+  - id: cybersecurity
+    name: "Cybersecurity Squad"
+    agents: 15
+    description: "15 agentes de ciberseguranca. Pentest, red team, blue team, AppSec, incident response, recon, exploitation com framework etico."
+    tags: [seguranca, pentest, red-team, blue-team, appsec]
+    dominio: "Seguranca cibernetica e testes de penetracao"
+
+  - id: data-squad
+    name: "Data Squad"
+    agents: 7
+    description: "7 estrategistas data-driven — analytics, CLV, growth, community, customer success, audience building."
+    tags: [dados, analytics, growth, retencao, comunidade, metricas]
+    dominio: "Analise de dados, growth e retencao"
+
+  - id: design-squad
+    name: "Design Squad"
+    agents: 8
+    description: "3 experts (Brad Frost, Dan Mall, Dave Malouf) + 4 especialistas + 1 orquestrador. Design systems, UX, UI, visual."
+    tags: [design, ux, ui, design-system, componentes]
+    dominio: "Design de interfaces e design systems"
+
+  - id: hormozi-squad
+    name: "Hormozi Squad"
+    agents: 16
+    description: "16 agentes com frameworks de Alex Hormozi. Ofertas, leads, pricing, vendas, conteudo, hooks, lancamento, retencao, scaling."
+    tags: [negocio, oferta, leads, preco, vendas, scaling]
+    dominio: "Crescimento e monetizacao de negocios"
+
+  - id: movement
+    name: "Movement Squad"
+    agents: 7
+    description: "7 agentes para construcao de movimentos. Fenomenologia, identidade, manifestos, ciclos de crescimento, medicao de impacto."
+    tags: [movimento, comunidade, manifesto, identidade, impacto]
+    dominio: "Construcao de movimentos e comunidades"
+
+  - id: storytelling
+    name: "Storytelling Squad"
+    agents: 12
+    description: "12 mestres do storytelling. Mitologia, screenwriting, narrativa pessoal, business storytelling, improviso, pitching."
+    tags: [narrativa, storytelling, pitch, apresentacao, historia]
+    dominio: "Narrativa, storytelling e apresentacoes"
+
+  - id: traffic-masters
+    name: "Traffic Masters"
+    agents: 16
+    description: "16 especialistas em trafego pago. Facebook, YouTube, Google Ads, media buying, creative analysis, scaling, tracking."
+    tags: [trafego, ads, facebook, google, youtube, midia-paga]
+    dominio: "Trafego pago e publicidade digital"

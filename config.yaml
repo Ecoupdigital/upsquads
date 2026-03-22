@@ -1,0 +1,19 @@
+# UPSquads Model Tier Configuration
+#
+# Tiers:
+#   powerful — modelo mais forte disponivel (opus)
+#   fast     — modelo mais rapido/barato (haiku)
+#
+# Regras:
+#   - chief/orchestrator: powerful (decisoes de roteamento)
+#   - writer (copywriters, estrategistas): powerful (qualidade critica)
+#   - researcher (pesquisa, scraping): fast (buscas factuais)
+#   - analyst (dados, metricas): fast (processamento de dados)
+#   - visual (design, imagens): fast (execucao de templates)
+
+models:
+  chief: powerful
+  writer: powerful
+  researcher: fast
+  analyst: fast
+  visual: fast
